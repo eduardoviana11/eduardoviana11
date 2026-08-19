@@ -10,7 +10,7 @@ Sou desenvolvedor de software com foco em desenvolvimento Full Stack e graduando
 
 - 🎓 Graduando em **Engenharia de Computação**.
 - 🤖 Atualmente focando meus estudos na área de Inteligência Artificial, desenvolvimento de agentes inteligentes e automação de sistemas.
-- 🌱 Aprofundando também meus conhecimentos no ecossistema **Go (Golang)**.
+- 🌱 Aprofundando também meus conhecimentos no ecossistema **Go**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
