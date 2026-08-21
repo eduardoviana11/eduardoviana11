@@ -47,16 +47,13 @@ Sou desenvolvedor de software com foco em desenvolvimento Full Stack e graduando
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=eduardoviana11&show_icons=true&include_all_commits=true&theme=tokyonight" 
+    src="./profile/stats.svg" 
   />
-
-  
 
   <img 
       align="left" 
       alt="Linguagens mais usadas" 
       height="200" 
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=eduardoviana11&langs_count=4&theme=tokyonight&custom_title=Tecnologias+mais+usadas" 
+      src="./profile/top-langs.svg" 
   />
 </p>
-<br clear="both">
