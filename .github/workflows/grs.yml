@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=tokyonight
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_STATS }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=4&theme=tokyonight&custom_title=Tecnologias+mais+usadas
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_STATS }}
 
       - name: Commit cards
         run: |
